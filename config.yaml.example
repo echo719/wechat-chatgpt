@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-  - email: daydayupecho@gmail.com
-    password: aAGCs7+!SM7*@4,
+  - email: email
+    password: password
     isGoogleLogin: false
 chatPrivateTiggerKeyword: ""
 openAIProxy: ""
